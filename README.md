@@ -1,4 +1,4 @@
-# Análisis de diversidad genética temporal en *Hippocampus ingens*
+# Análisis de la variación de la diversidad genética de *Hippocampus ingens* en capturas ilegales
 
 Este proyecto forma parte del curso **Herramientas Bioinformáticas** de la Maestría en Biología Molecular, UNMSM.
 Su objetivo es analizar la variación de la diversidad haplotípica en el gen de la región control mitocondrial
