@@ -1,7 +1,7 @@
 # Análisis de la variación de la diversidad genética de *Hippocampus ingens* en capturas ilegales
 
 Este proyecto forma parte del curso **Herramientas Bioinformáticas** de la Maestría en Biología Molecular, UNMSM.
-Su objetivo es analizar la variación de la diversidad haplotípica en el gen de la región control mitocondrial de *Hippocampus ingens*, comparando datos actuales (muestras decomisadas por el Estado peruano) con la información publicada por Saarman et al. (2010).
+Su objetivo es analizar la variación de la diversidad haplotípica en el gen de la región control mitocondrial de *Hippocampus ingens*, comparando datos actuales de una población del 2021 (muestras decomisadas por el Estado peruano) con la información publicada por Saarman et al. (2010).
 
 ## Contenido
 - `datos/`: Secuencias de GenBank y archivos alineados.
