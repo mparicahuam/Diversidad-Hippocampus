@@ -11,7 +11,7 @@ La diversidad haplotípica actual de Hippocampus ingens es menor o presenta camb
 ## Herramientas empleadas
 - **BIOEDIT** (alineamiento): https://thalljiscience.github.io/
 - **DnaSP** (Análisis de diversidad haplotípica): https://www.ub.edu/dnasp/
-- **PopART** (visualización de redes haplotípicas): https://popart.maths.otago.ac.nz/download/
+- **NETWORK** (visualización de redes haplotípicas): https://www.fluxus-engineering.com/sharenet.htm
 
 ## Referencias bibliográficas
 Saarman, N. P., Louie, K. D., & Hamilton, H. (2010). Genetic differentiation across eastern Pacific oceanographic barriers in the threatened seahorse Hippocampus ingens. Conservation Genetics, 11(5), 1989–2000. https://doi.org/10.1007/s10592-010-0092-x
